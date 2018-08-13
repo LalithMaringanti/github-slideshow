@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+My fate is my fate, none of your fate.
 Use the left arrow to go back!
